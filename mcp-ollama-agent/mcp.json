@@ -8,6 +8,15 @@
         "run",
         "weather.py"
       ]
+    },
+    "arxiv": {
+      "command": "C:\\Users\\User\\anaconda3\\Scripts\\uv.exe",
+      "args": [
+        "--directory",
+        "C:/Users/User/Downloads/mcp-ollama/mcp-ollama-agent",
+        "run",
+        "arxiv_mcp.py"
+      ]
     }
   }
 }
